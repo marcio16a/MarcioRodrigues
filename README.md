@@ -14,7 +14,7 @@
 
 - <a href="https://www.instagram.com/marciio.r/"><img src="https://img.shields.io/badge/instagram%20-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href="https://www.linkedin.com/in/m%C3%A1rcio-rodrigues-98a15087/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-- - <a href="https://www.facebook.com/marciorsd/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+- <a href="https://www.facebook.com/marciorsd/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 -----
 
 
