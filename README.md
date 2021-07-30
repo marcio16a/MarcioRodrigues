@@ -6,12 +6,20 @@
 - 💬 Ask me anything about Frontend
 - 📫 How to reach me: marcio16a@hotmail.com
 
+-----
+
 
 
 
 
 - <a href="https://www.instagram.com/marciio.r/"><img src="https://img.shields.io/badge/instagram%20-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
+-----
+
+![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
+
+
+---
 
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
