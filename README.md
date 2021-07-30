@@ -37,7 +37,7 @@
 <br>
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)
+![java](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)
 
 -----
 
