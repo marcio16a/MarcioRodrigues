@@ -3,12 +3,12 @@
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
 
-- 🔭 I’m currently working on NodeJs
+- 🔭 I’m looking for new opportunities
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Frontend
-- 📫 How to reach me: saviomartin2020@gmail.com
-- 😄 My website: https://savio.works/
-- ⚡ Fun fact: I'm comming to teen
+- 📫 How to reach me: marcio16a@hotmail.com
+
+
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
 
@@ -54,4 +54,4 @@
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">
 </p>
-⭐️ From [saviomartin](https://github.com/saviomartin)
+⭐️ From [marcio16a](https://github.com/marcio16a)
